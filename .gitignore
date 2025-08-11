@@ -2,3 +2,6 @@
 smallchat.dSYM
 smallchat-server
 smallchat-client
+
+.cache
+compile_commands.json
